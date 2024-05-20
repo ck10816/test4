@@ -115,6 +115,7 @@ class MyWindow:
         stringed_data=''
         
         AKIAXYSPDBPKXDCOVA0U
+        AKIAXYSPDBPKXDCOVA0U
 
 window=tk.Tk()
 
